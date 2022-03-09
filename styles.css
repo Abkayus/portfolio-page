@@ -225,6 +225,9 @@ body {
   display: inline-flex;
   z-index: -1;
 }
-/* End of proj
-diplay {
-}ects section */
+#contact a:hover{
+  cursor: pointer;
+   margin-right: 2rem;
+  color: grey;
+}
+/* End of project section */
